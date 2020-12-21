@@ -130,10 +130,9 @@ There are several limitations with this dataset though there is enough informati
 The instructions for this Deliverables 1 & 2 limited the analysis. For example, there were specific directions on criteria to filter for pivot tables and charts. None of which required filtering by country nor recent years. Had such filters been included in the instructions, it would increase the reliability of the data for the analysis. 
 
 Outside of instructions limiting the analysis, here is some data missing from the kickstarter data that I wish were available:
+- Was the campaign marketed outside of the platform? 
+- How fast did campaigns reach their goals? Many exceeded their goal and remained live until the deadline. 
 
--Was the campaign marketed outside of the platform? 
--How fast did campaigns reach their goals? Many exceeded their goal and remained live until the deadline. 
--
 
 
 
